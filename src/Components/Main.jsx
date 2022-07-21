@@ -40,6 +40,11 @@ const Main = () => {
               icon: <UploadOutlined />,
               label: 'Contact Us',
             },
+            {
+              key: '4',
+              icon: <UploadOutlined />,
+              label: 'About Us',
+            },
           ]}
         />
       </Sider>
